@@ -21,9 +21,9 @@ This app aims to address the above limitations. Recent work from Anthropic has u
 https://github.com/langchain-ai/auto-evaluator/blob/main/README.md
 
 ### Prerequist
-You required Phython in your system fyou can follow this (https://www.python.org)
-OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys)
-Create a account on huggingface https://huggingface.co/login
+`You required Phython in your system fyou can follow this (https://www.python.org)`<br/>
+`OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys)`<br/>
+`Create a account on huggingface https://huggingface.co/login`<br/>
 
 ### Modules required
 All the requirment are define in requirment.text file.
