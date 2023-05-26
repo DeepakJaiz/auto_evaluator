@@ -18,7 +18,7 @@ This app aims to address the above limitations. Recent work from Anthropic has u
 ![image](https://github.com/DeepakJaiz/auto_evaluator/assets/120568685/d9a2aaac-e8c1-4836-b6d8-7121ad797ccf)
 
 ### Reference
-https://gpt-index.readthedocs.io/en/latest/guides/tutorials/terms_definitions_tutorial.html
+https://github.com/langchain-ai/auto-evaluator/blob/main/README.md
 
 ### Prerequist
 You required Phython in your system fyou can follow this (https://www.python.org)
