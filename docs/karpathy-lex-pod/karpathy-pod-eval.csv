@@ -1,0 +1,3 @@
+"question","answer",
+"Why is the transformer architecture expressive in the forward pass?","The transformer architecture is expressive because it uses a general message passing scheme where nodes get to look at each other, decide what's interesting and then update each other.",
+"Why is next word prediction an effective training objective?", "On a sufficiently large dataset, the task of predicting the next word multi-tasks knowledge of a lot of things, including understanding of chemistry, physics, and human nature. You have to understand a lot about the world to make that prediction on an internet-scale dataset.",
